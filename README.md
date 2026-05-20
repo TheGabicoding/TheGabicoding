@@ -12,6 +12,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,js&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGabicoding&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGabicoding&theme=tokyonight" />
+</div>
