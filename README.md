@@ -2,7 +2,7 @@
 <h3 align="center">Programador iniciante cursando BTI na UFRN</h3>
 
 <br/>
-### 🚀 Sobre mim
+🚀 Sobre mim
 
 - 🌱 Atualmente estudando **Python** e **C++**
 - 💻 Explorando o mundo de dados e software
@@ -12,18 +12,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,js&theme=dark" />
 </p>
-
- 📊 Minhas estatísticas
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheGabicoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGabicoding&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" />
-
-</div>
-
-### 🔥 Sequência de contribuições
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGabicoding&theme=tokyonight&hide_border=true" />
 </p>
