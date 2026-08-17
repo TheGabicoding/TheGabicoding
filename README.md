@@ -4,13 +4,13 @@
 <br/>
 🚀 Sobre mim
 
-- 🌱 Atualmente estudando **Python**, **Automações** e **IA**
+- 🌱 Atualmente estudando **Python**, **Java** e **IA**
 - 💻 Explorando o mundo de dados e desenvolvimento
 - 🔧 Aprendendo boas práticas e ferramentas básicas
 - 🗂️ Tecnologias que estudo:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html, css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html, css&theme=dark" />
 </p>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGabicoding&theme=tokyonight" />
