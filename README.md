@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de BTI na UFRN | 💻 Desenvolvedor em formação
 
-Atualmente estou estudando **Python, Java, C++, HTML e CSS**, criando projetos para colocar meus conhecimentos em prática e evoluir como desenvolvedor.
+Atualmente estou estudando **Python e Java**, criando projetos para colocar meus conhecimentos em prática e evoluir como desenvolvedor.
 
 ---
 
@@ -32,9 +32,9 @@ Atualmente estou estudando **Python, Java, C++, HTML e CSS**, criando projetos p
 
 ## 🚀 Atualmente
 
-🐍 **Python** • ☕ **Java** • ⚙️ **C++** • 🌐 **HTML & CSS**
+🐍 **Python** • ☕ **Java** 
 
-📚 Estudos • 💻 Projetos • 🤖 Interesse em IA
+📚 Estudos • 💻 Projetos • 🤖 IA, Dados e Automações
 
 ---
 
