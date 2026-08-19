@@ -1,17 +1,45 @@
-<h1 align="center">Olá! Eu me chamo Gabriel! 👋</h1>
-<h3 align="center">Futuro dev cursando BTI na UFRN</h3>
+# 👋 Olá! Eu sou o Gabriel
 
-<br/>
-🚀 Sobre mim
+### 🎓 Estudante de BTI na UFRN | 💻 Desenvolvedor em formação
 
-- 🌱 Atualmente estudando **Python**, **Java** e **IA**
-- 💻 Explorando o mundo de dados e desenvolvimento
-- 🔧 Aprendendo boas práticas e ferramentas básicas
-- 🗂️ Tecnologias que estudo:
+Atualmente estou estudando **Python, Java, C++, HTML e CSS**, criando projetos para colocar meus conhecimentos em prática e evoluir como desenvolvedor.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html, css&theme=dark" />
-</p>
+---
+
+## 🛠️ Tecnologias
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGabicoding&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,git,github" />
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheGabicoding&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🚀 Atualmente
+
+🐍 **Python** • ☕ **Java** • ⚙️ **C++** • 🌐 **HTML & CSS**
+
+📚 Estudos • 💻 Projetos • 🤖 Interesse em IA
+
+---
+
+<div align="center">
+
+📫 **[GitHub](https://github.com/TheGabicoding) • [Email](mailto:gabriel23gomes11@gmail.com)**
+
 </div>
