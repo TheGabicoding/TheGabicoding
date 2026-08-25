@@ -16,20 +16,6 @@ Atualmente estou estudando **Python e Java**, criando projetos para colocar meus
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheGabicoding&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 ## 🚀 Atualmente
 
 🐍 **Python** • ☕ **Java** 
@@ -40,6 +26,6 @@ Atualmente estou estudando **Python e Java**, criando projetos para colocar meus
 
 <div align="center">
 
-📫 **[GitHub](https://github.com/TheGabicoding) • [Email](mailto:gabriel23gomes11@gmail.com)**
+📫 **[Linkedin](https://www.linkedin.com/in/gabriel-augusto-8b603728a/) • [Email](mailto:gabriel23gomes11@gmail.com)**
 
 </div>
